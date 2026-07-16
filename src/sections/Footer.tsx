@@ -38,7 +38,7 @@ export default function Footer({ onNavigate }: FooterProps) {
               UTU
             </button>
             <p className="text-[#6E6F73] text-sm leading-relaxed mb-6">
-              Tours & Safaris. Curated journeys through Kenya, Tanzania,
+              EXECUTIVE SAFARIS. Curated journeys through Kenya, Tanzania,
               Uganda and Rwanda.
             </p>
             <div className="flex items-center gap-2 text-[#6E6F73] text-sm">
