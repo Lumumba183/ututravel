@@ -33,7 +33,7 @@ export default function WhatsAppSection() {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent(
-      'Hello UTU Tours & Safaris! I would like to inquire about your safari packages.'
+      'Hello UTU EXECUTIVE SAFARIS! I would like to inquire about your safari packages.'
     );
     window.open(`https://wa.me/254716417526?text=${message}`, '_blank');
   };

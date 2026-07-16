@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
     image: '/images/blog_game_drives.jpg',
     date: 'June 15, 2026',
     readTime: '5 min read',
-    author: 'UTU Tours Team',
+    author: 'UTU EXECUTIVE SAFARIS Team',
     content: [
       "Imagine waking up before dawn, the air crisp and cool, as your expert guide navigates a custom 4x4 safari vehicle through the golden grasslands of the Masai Mara. The sky begins to blush with shades of pink and orange, and suddenly, in the distance, you see a pride of lions stirring from their night's rest. This is the magic of a game drive -- a front-row seat to the greatest wildlife show on Earth.",
 
@@ -29,13 +29,13 @@ export const blogPosts: BlogPost[] = [
 
       "What sets a game drive apart from a zoo visit or a wildlife documentary is the unpredictability. No two drives are ever the same. The animals are wild, free, and living on their own terms. Your guide -- often a local expert who has spent decades reading the landscape -- will track footprints, listen for alarm calls, and follow the subtle signs that lead to extraordinary sightings.",
 
-      "The best game drives happen during the golden hours -- early morning and late afternoon. This is when the light is most photogenic and the animals are most active. UTU Tours provides custom-built safari vehicles with pop-up roofs, ensuring every guest has unobstructed views and perfect photo opportunities. Our guides know every corner of the parks and will take you away from the crowds to the quiet, game-rich areas that others miss.",
+      "The best game drives happen during the golden hours -- early morning and late afternoon. This is when the light is most photogenic and the animals are most active. UTU EXECUTIVE SAFARIS provides custom-built safari vehicles with pop-up roofs, ensuring every guest has unobstructed views and perfect photo opportunities. Our guides know every corner of the parks and will take you away from the crowds to the quiet, game-rich areas that others miss.",
 
       "Beyond the Big Five -- lion, leopard, elephant, buffalo, and rhino -- East Africa is teeming with life. You will spot giraffes gracefully moving across the plains, zebras in their striking black-and-white stripes, hippos wallowing in muddy rivers, and hundreds of bird species from vibrant kingfishers to majestic fish eagles. Every game drive is a masterclass in biodiversity.",
 
       "For photographers, a game drive is paradise. The quality of light in East Africa is unmatched, and the proximity to wildlife allows for stunning close-up shots without disturbing the animals. Whether you are a professional with a telephoto lens or a casual traveler with a smartphone, you will return home with images that will make your friends and family envious.",
 
-      "If you have ever dreamed of seeing Africa's wildlife in its natural habitat, a game drive with UTU Tours is the ultimate way to make that dream a reality. Our itineraries are carefully crafted to maximize wildlife sightings while ensuring your comfort and safety. From luxury lodges to bush breakfasts under acacia trees, every detail is designed to create memories that last a lifetime.",
+      "If you have ever dreamed of seeing Africa's wildlife in its natural habitat, a game drive with UTU EXECUTIVE SAFARIS is the ultimate way to make that dream a reality. Our itineraries are carefully crafted to maximize wildlife sightings while ensuring your comfort and safety. From luxury lodges to bush breakfasts under acacia trees, every detail is designed to create memories that last a lifetime.",
     ],
     tips: [
       'Book morning and afternoon game drives for the best wildlife activity',
@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
     image: '/images/blog_migration.jpg',
     date: 'June 5, 2026',
     readTime: '6 min read',
-    author: 'UTU Tours Team',
+    author: 'UTU EXECUTIVE SAFARIS Team',
     content: [
       "The Great Wildebeest Migration is often called 'The Greatest Show on Earth' -- and for good reason. Every year, over 1.5 million wildebeest, accompanied by hundreds of thousands of zebras and gazelles, embark on a perilous 1,800-kilometer circular journey across the Serengeti-Masai Mara ecosystem. It is the largest overland migration on the planet, and witnessing it is a wildlife experience like no other.",
 
@@ -105,7 +105,7 @@ export const blogPosts: BlogPost[] = [
 
       "From October to December, the herds begin their return journey south through the Masai Mara and into the Serengeti. This period offers excellent game viewing in both Kenya and Tanzania, with the animals spread across a wide area. The shorter grass makes predator spotting easier, and the cooler temperatures mean animals are active throughout the day.",
 
-      "Planning a migration safari requires expert timing and local knowledge. The exact timing of the river crossings is unpredictable -- it depends on rainfall patterns, which vary from year to year. At UTU Tours, our guides have decades of experience tracking the migration and will position you at the right place at the right time. We use a combination of local intelligence, radio communication, and deep knowledge of animal behavior to maximize your chances of witnessing the crossings.",
+      "Planning a migration safari requires expert timing and local knowledge. The exact timing of the river crossings is unpredictable -- it depends on rainfall patterns, which vary from year to year. At UTU EXECUTIVE SAFARIS, our guides have decades of experience tracking the migration and will position you at the right place at the right time. We use a combination of local intelligence, radio communication, and deep knowledge of animal behavior to maximize your chances of witnessing the crossings.",
 
       "For the ultimate migration experience, we recommend a cross-border itinerary that covers both the Serengeti and the Masai Mara. This gives you the best chance of catching the migration regardless of timing, and it provides a more complete picture of this incredible ecosystem. Our itineraries include luxury tented camps strategically located along the migration route, ensuring you are never far from the action.",
 

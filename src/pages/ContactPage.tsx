@@ -99,7 +99,7 @@ export default function ContactPage() {
           <div className="lg:col-span-2 space-y-8">
             <div>
               <h3 className="font-display font-bold text-[#F6F5F2] text-lg mb-4">
-                UTU Tours & Safaris
+                UTU EXECUTIVE SAFARIS
               </h3>
               <div className="space-y-3">
                 <div className="flex items-start gap-3 text-[#9A9B9F]">

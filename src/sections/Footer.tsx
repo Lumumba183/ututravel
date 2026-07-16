@@ -127,7 +127,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         {/* Bottom bar */}
         <div className="mt-16 pt-8 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-[#6E6F73] text-xs">
-            &copy; {currentYear} UTU Tours & Safaris. All rights reserved.
+            &copy; {currentYear} UTU EXECUTIVE SAFARIS. All rights reserved.
           </p>
           <div className="flex items-center gap-2">
             <div className="gold-marker" />

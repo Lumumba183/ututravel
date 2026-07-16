@@ -116,7 +116,7 @@ export default function BlogPost() {
             Ready for Your Adventure?
           </h3>
           <p className="text-[#9A9B9F] mb-6 max-w-md mx-auto">
-            Let UTU Tours craft your perfect safari experience. Get in touch and
+            Let UTU EXECUTIVE SAFARIS craft your perfect safari experience. Get in touch and
             start planning today.
           </p>
           <button

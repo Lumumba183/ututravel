@@ -86,7 +86,7 @@ export default function Navigation({ onNavigate }: NavigationProps) {
           <div className="mt-8 flex items-center gap-3">
             <div className="gold-marker" />
             <span className="text-[#6E6F73] text-sm tracking-widest uppercase">
-              UTU Tours & Safaris
+              UTU EXECUTIVE SAFARIS
             </span>
           </div>
         </div>
