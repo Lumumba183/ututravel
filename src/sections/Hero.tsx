@@ -153,7 +153,7 @@ export default function Hero() {
           <div ref={labelRef} className="mb-8">
             <div className="hairline w-32 md:w-[18vw] mb-4" />
             <p className="text-xs tracking-[0.12em] uppercase text-[#6E6F73] font-medium">
-              Safari & Adventure
+              UTU EXECUTIVE SAFARIS
             </p>
             <div className="hairline w-40 md:w-[26vw] mt-4" />
           </div>
