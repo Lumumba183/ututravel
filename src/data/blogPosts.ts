@@ -54,7 +54,7 @@ export const blogPosts: BlogPost[] = [
     image: '/images/blog_gorilla_trekking.jpg',
     date: 'June 10, 2026',
     readTime: '7 min read',
-    author: 'UTU Tours Team',
+    author: 'UTU EXECUTIVE SAFARIS Team',
     content: [
       "There are moments in life that change you forever. Standing just a few meters from a silverback mountain gorilla, watching his intelligent eyes study you with quiet curiosity, is one of those moments. Gorilla trekking is not just a wildlife activity -- it is a profound, humbling encounter with one of our closest relatives in the animal kingdom.",
 
@@ -68,9 +68,9 @@ export const blogPosts: BlogPost[] = [
 
       "When you finally reach the gorilla family, you are allowed one magical hour in their presence. You will watch the infants playfully tumbling over each other, the mothers grooming their young, and the massive silverback keeping a watchful eye over his family. The experience is carefully regulated to ensure minimal impact on the gorillas -- small group sizes, strict distance rules, and limited daily permits all protect these magnificent creatures.",
 
-      "Gorilla trekking also plays a vital role in conservation. The revenue from trekking permits funds anti-poaching patrols, community development projects, and habitat protection. By embarking on a gorilla trek, you are directly contributing to the survival of this endangered species. UTU Tours partners with local conservation organizations to ensure that every trip makes a positive impact.",
+      "Gorilla trekking also plays a vital role in conservation. The revenue from trekking permits funds anti-poaching patrols, community development projects, and habitat protection. By embarking on a gorilla trek, you are directly contributing to the survival of this endangered species. UTU EXECUTIVE SAFARIS partners with local conservation organizations to ensure that every trip makes a positive impact.",
 
-      "At UTU Tours, we handle every detail of your gorilla trekking adventure -- from securing permits (which must be booked months in advance) to arranging comfortable lodges near the parks, providing experienced guides, and ensuring you are properly prepared for the trek. We can also combine your gorilla trek with other unforgettable experiences like chimpanzee tracking, golden monkey visits, and cultural encounters with local communities.",
+      "At UTU EXECUTIVE SAFARIS, we handle every detail of your gorilla trekking adventure -- from securing permits (which must be booked months in advance) to arranging comfortable lodges near the parks, providing experienced guides, and ensuring you are properly prepared for the trek. We can also combine your gorilla trek with other unforgettable experiences like chimpanzee tracking, golden monkey visits, and cultural encounters with local communities.",
 
       "If you are seeking an experience that will stay with you for the rest of your life, gorilla trekking in Rwanda or Uganda is the answer. It is challenging, emotional, beautiful, and transformative -- everything that travel should be.",
     ],
@@ -128,7 +128,7 @@ export const blogPosts: BlogPost[] = [
     image: '/images/blog_luxury_safari.jpg',
     date: 'May 28, 2026',
     readTime: '4 min read',
-    author: 'UTU Tours Team',
+    author: 'UTU EXECUTIVE SAFARIS Team',
     content: [
       "There is a common misconception that going on safari means roughing it in the bush -- but nothing could be further from the truth. East Africa is home to some of the world's most extraordinary luxury lodges and tented camps, where five-star comfort meets untamed wilderness. Imagine falling asleep to the distant roar of a lion, waking to the sight of elephants at your doorstep, and dining under a canopy of stars -- all while enjoying gourmet cuisine, spa treatments, and impeccable service.",
 
@@ -144,9 +144,9 @@ export const blogPosts: BlogPost[] = [
 
       "Sustainability is also at the forefront of the luxury safari industry. Leading lodges operate on solar power, harvest rainwater, support local conservation projects, and source food from nearby communities. Many are members of prestigious eco-certification programs, ensuring that your stay has a positive impact on both the environment and the people who call these wild places home.",
 
-      "At UTU Tours, we have personally visited and vetted every property we recommend. We understand that where you stay is as important as what you see, and we take great care in matching each client with the perfect lodge. Whether you prefer the classic romance of a tented camp, the contemporary elegance of a modern lodge, or the ultimate indulgence of a private villa, we will find the perfect accommodation for your dream safari.",
+      "At UTU EXECUTIVE SAFARIS, we have personally visited and vetted every property we recommend. We understand that where you stay is as important as what you see, and we take great care in matching each client with the perfect lodge. Whether you prefer the classic romance of a tented camp, the contemporary elegance of a modern lodge, or the ultimate indulgence of a private villa, we will find the perfect accommodation for your dream safari.",
 
-      "A safari is not just about the animals you see -- it is about how you feel while you are there. When you return from an evening game drive to a warm bath, a glass of wine, and a gourmet meal prepared by a talented chef, you realize that a safari can be the most luxurious vacation you have ever experienced. Let UTU Tours show you how.",
+      "A safari is not just about the animals you see -- it is about how you feel while you are there. When you return from an evening game drive to a warm bath, a glass of wine, and a gourmet meal prepared by a talented chef, you realize that a safari can be the most luxurious vacation you have ever experienced. Let UTU EXECUTIVE SAFARIS show you how.",
     ],
     tips: [
       'Book luxury lodges 6+ months in advance, especially during peak season',
